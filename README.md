@@ -49,10 +49,10 @@ hasta APIs con Node.js y bases de datos en PostgreSQL.
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [🔐 Login JWT + PostgreSQL](https://github.com/iguardiaDev/login-jwt) | API REST de autenticación con rutas protegidas y BD real | Node.js, JWT, bcrypt, PostgreSQL |
-| [⚡ App Fullstack](https://github.com/iguardiaDev/frontend-login) | Frontend React conectado a API REST con autenticación completa | React, Tailwind, JWT |
+| Proyecto | Demo | Tecnologías |
+|----------|------|-------------|
+| [🔐 Login JWT](https://github.com/iguardiaDev/login-jwt) | [Backend](https://login-jwt-production.up.railway.app) | Node.js, JWT, PostgreSQL |
+| [⚡ App Fullstack](https://github.com/iguardiaDev/frontend-login) | [Demo](https://frontend-login-xxxx.vercel.app) | React, Tailwind, JWT |
 
 ---
 
