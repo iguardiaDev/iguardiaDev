@@ -26,6 +26,9 @@ hasta APIs con Node.js y bases de datos en PostgreSQL.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Backend**
 
@@ -53,7 +56,7 @@ hasta APIs con Node.js y bases de datos en PostgreSQL.
 |----------|------|-------------|
 | [🔐 Login JWT](https://github.com/iguardiaDev/login-jwt) | [Backend](login-jwt-production.up.railway.app) | Node.js, JWT, PostgreSQL |
 | [⚡ App Fullstack](https://github.com/iguardiaDev/frontend-login) | [Demo](https://front-end-login-topaz.vercel.app/) | React, Tailwind, JWT |
-| [🚛 App De recibos .PDF](https://github.com/iguardiaDev/gruas-molina-recibos) | [Demo](https://iguardiadev.github.io/gruas-molina-recibos/) | JS, CSSm HTML5 |
+| [🚛 App De recibos .PDF](https://github.com/iguardiaDev/gruas-molina-recibos) | [Demo](https://iguardiadev.github.io/gruas-molina-recibos/) | JS, CSS, HTML5 |
 
 ---
 
