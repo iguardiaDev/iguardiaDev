@@ -60,9 +60,8 @@ hasta APIs con Node.js y bases de datos en PostgreSQL.
 
 <div align="center">
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguardiaDev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguardiaDev&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iguardiaDev&theme=buefy)](https://git.io/streak-stats)
 
 </div>
 
